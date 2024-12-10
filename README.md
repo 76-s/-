@@ -1,4 +1,3 @@
-
 使用方法: 需要将参与抽奖的人员姓名写入到 class_names.txt中，运行raffle.py文件，随后会生成一个已经抽到的人员名单 winners.txt在同目录下。
 
 注意：
